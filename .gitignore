@@ -1,0 +1,6 @@
+.vscode
+build
+managed_components
+run_idf.sh
+idf.sh
+sdkconfig.old
